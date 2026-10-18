@@ -1,4 +1,4 @@
-# Braço Robótico MyArm — Torre de Hanói
+# Braço Robótico MyArm: Torre de Hanói
 
 ## Descrição do projeto
 
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=nb2hkiw5dbM
 
 ## Disciplina
 
-Princípios de Robótica — PUCPR, 2025
+Princípios de Robótica, PUCPR, 2025
 
 ## Tecnologias utilizadas
 
@@ -24,7 +24,7 @@ Princípios de Robótica — PUCPR, 2025
 
 ## Estrutura do repositório
 
-- `braco_robotico.ino` — código de controle do braço robótico.
+- `braco_robotico.ino`: código de controle do braço robótico.
 
 ## Contexto acadêmico
 
